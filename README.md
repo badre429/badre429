@@ -1,5 +1,5 @@
 ### Hi there 👋
-Badreddine is a computer science engineer with over 12 years of demonstrated experience as a full-stack web developer. He carries out complex projects from the concept phase through architecture, design, implementation, and DevOps to maintenance. With his expertise in ASP.NET Core, Angular, C#, TypeScript, JavaScript, databases, and automated testing, Badreddine pays attention to all technical details while delivering innovative products.
+Badreddine is a computer science engineer with over 13 years of demonstrated experience as a full-stack web developer. He carries out complex projects from the concept phase through architecture, design, implementation, and DevOps to maintenance. With his expertise in ASP.NET Core, NestJs, Angular, C#, TypeScript, JavaScript, databases, and automated testing, Badreddine pays attention to all technical details while delivering innovative products.
 
 
 <!--
